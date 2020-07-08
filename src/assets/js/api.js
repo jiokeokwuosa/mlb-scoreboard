@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = "http://gd2.mlb.com/components/game/mlb";
+const URL = "https://gd2.mlb.com/components/game/mlb";
  
 export default {
   url: URL,
