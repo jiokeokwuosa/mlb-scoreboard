@@ -9,7 +9,7 @@ import "./App.css";
 
 const App = () => {
   useEffect(() => {
-    store.dispatch(getScores('year_2014', 'month_10', 'day_29'));
+    store.dispatch(getScores('year_2015', 'month_07', 'day_28'));
   });
   return (
     <Provider store={store}>

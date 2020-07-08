@@ -15,7 +15,7 @@ const initialState  = {
     year:2015,
     next_day_date:null,
     name:'',
-    mainNav:'!home',
+    mainNav:'home',
     mainNav1: 'partOne',
     key1: 0,
     game_data_directory:''
